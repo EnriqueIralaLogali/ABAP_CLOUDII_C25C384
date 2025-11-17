@@ -1,0 +1,20 @@
+CLASS zcl_01_exec_log_c384 DEFINITION
+  PUBLIC
+  FINAL
+  CREATE PUBLIC .
+
+  PUBLIC SECTION.
+  interfACES: if_oo_adt_classrun.
+  PROTECTED SECTION.
+  PRIVATE SECTION.
+ENDCLASS.
+
+
+
+CLASS zcl_01_exec_log_c384 IMPLEMENTATION.
+
+  METHOD if_oo_adt_classrun~main.
+
+  ENDMETHOD.
+
+ENDCLASS.
